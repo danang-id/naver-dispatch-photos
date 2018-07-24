@@ -14,7 +14,7 @@ Downloads Naver X Dispatch HD Photos by Using CID
 
 ## How to Use?
 
-First, clone this repository. This assumes you have [Git](https://nodejs.org) installed on your system.
+First, clone this repository. This assumes you have [Git](https://git-scm.com/) installed on your system.
 
 ```bash
 git clone https://github.com/danang-id/naver-dispatch-photos.git
