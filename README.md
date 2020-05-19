@@ -50,4 +50,4 @@ See also the list of [contributors](https://github.com/danang-id/pknstan-sikipli
 
 ## License
 
-This project is licensed under the Apache License version 2.0 (Apache-2.0). See [LICENSE](LICENSE) for details.
+This project is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE) for details.

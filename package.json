@@ -11,11 +11,11 @@
     "start": "ts-node main.ts"
   },
   "devDependencies": {
-    "@types/node": "^10.5.2",
-    "ts-node": "^7.0.0",
-    "typescript": "^2.9.2"
+    "@types/node": "^14.0.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.19.2"
   }
 }
